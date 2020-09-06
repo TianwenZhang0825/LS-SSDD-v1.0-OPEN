@@ -1,0 +1,4 @@
+# LS-SSDD-v1.0-OPEN
+This is a Large-Scale SAR Ship Detection Dataset-v1.0 (LS-SSDD-v1.0) from Sentinel-1, for small ship detec-tion under large-scale backgrounds. LS-SSDD-v1.0 contains 15 large-scale SAR images whose ground truths are correctly labeled by SAR experts by drawing support from Automatic Identifica-tion System (AIS) and Google Earth. To facilitate network training, the large-scale images are directly cut into 9,000 sub-images without bells and whistles, providing convenience for subsequent detec-tion result presentation in large-scale SAR images. 
+
+LS-SSDD-v1.0 is publicly available at Google cloud: https://drive.google.com/file/d/1MYxgeeAIyoIxYRNcnU64D9RdLjttd3B-/view?usp=sharing.

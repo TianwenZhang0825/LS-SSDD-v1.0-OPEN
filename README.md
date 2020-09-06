@@ -5,7 +5,7 @@ LS-SSDD-v1.0 is publicly available at:
 
 Google Cloud: https://drive.google.com/file/d/1-fSKYsKr5wuYuXJE2CDX_Yfr4Ylwjfqm/view?usp=sharing
 
-Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg
+Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg (Extraction code: 2020)
 
 
 Detailed dataset description can be found in the following reference [1]. When using LS-SSDD-v1.0, please cite the following references [1-6].

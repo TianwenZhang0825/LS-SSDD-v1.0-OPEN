@@ -3,9 +3,9 @@ This is a Large-Scale SAR Ship Detection Dataset-v1.0 (LS-SSDD-v1.0) from Sentin
 
 LS-SSDD-v1.0 is publicly available at:
 
-Google Cloud: https://drive.google.com/file/d/1MYxgeeAIyoIxYRNcnU64D9RdLjttd3B-/view?usp=sharing.
+Google Cloud: https://drive.google.com/file/d/1-fSKYsKr5wuYuXJE2CDX_Yfr4Ylwjfqm/view?usp=sharing
 
-Baidu Cloud:
+Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg
 
 
 Detailed dataset description can be found in the following reference [1]. When using LS-SSDD-v1.0, please cite the following references [1-6].

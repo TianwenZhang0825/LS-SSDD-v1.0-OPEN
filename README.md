@@ -24,4 +24,5 @@ Detailed dataset description can be found in the following reference [1]. When u
 
 Warning! Warning! Warning!
 (1) The baselines of LS-SSDD-v1.0 are run under MMDetection 1.0 version. MMDetection 2.0 version is unknown on LS-SSDD-1.0.
+
 (2) All baselines are slightly adjusted according to actual experiments so as to ensure training success.

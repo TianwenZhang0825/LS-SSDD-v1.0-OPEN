@@ -16,8 +16,12 @@ Detailed dataset description can be found in the following reference [1]. When u
 
 [3] Zhang, Tianwen, & Zhang, Xiaoling (2020). ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector. IEEE Geoscience and Remote Sensing Letters, 1-5, early access.
 
-[4] Zhang, Tianwen, & Zhang, Xiaoling (2019). High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network. Remote Sensing, 11, 1206.
+[4] Tianwen Zhang, Xiaoling Zhang, Jun Shi, Shunjun Wei, Jianguo Wang, Jianwei Li, Hao Su, and Yue Zhou. Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images. IEEE Geoscience and Remote Sensing Letters, 1-5, early access.
 
-[5] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2019). Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection. Remote Sensing, 11, 2483.
+[5] Zhang, Tianwen, & Zhang, Xiaoling (2019). High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network. Remote Sensing, 11, 1206.
 
-[6] Tianwen Zhang, Xiaoling Zhang, Jun Shi, Shunjun Wei, Jianguo Wang, Jianwei Li, Hao Su, and Yue Zhou. Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images. IEEE Geoscience and Remote Sensing Letters, 1-5, possible publication. Or cite the format in arXiv, Tianwen Zhang, Xiaoling Zhang, Jun Shi, Shunjun Wei, Jianguo Wang, Jianwei Li, Hao Su, and Yue Zhou. Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images. arXiv 2020, arXiv:2007.10714.
+[6] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2019). Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection. Remote Sensing, 11, 2483.
+
+Warning! Warning! Warning!
+(1) The baselines of LS-SSDD-v1.0 are run under MMDetection 1.0 version. MMDetection 2.0 version is unknown on LS-SSDD-1.0.
+(2) All baselines are slightly adjusted according to actual experiments so as to ensure training success.

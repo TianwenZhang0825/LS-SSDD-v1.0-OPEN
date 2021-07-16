@@ -29,7 +29,7 @@ Detailed dataset description can be found in the following reference [1]. When u
 + [9] 张晓玲, 张天文, 师君, 等. 基于深度分离卷积神经网络的高速高精度SAR舰船检测[J]. 雷达学报, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
        ZHANG Xiaoling, ZHANG Tianwen, SHI Jun, et al. High-speed and High-accurate SAR ship detection based on a depthwise separable convolution neural network[J]. Journal of Radars, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
 
-++ [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
++ + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
 
 Warning! Warning! Warning!
 

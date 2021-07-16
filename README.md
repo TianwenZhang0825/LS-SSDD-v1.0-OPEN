@@ -22,12 +22,14 @@ Detailed dataset description can be found in the following reference [1]. When u
 
 [6] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2019). Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection. Remote Sensing, 11, 2483.
 
-++ [7] Zhang, Tianwen; Zhang, Xiaoling. 2021. "Injection of Traditional Hand-Crafted Features into Modern CNN-based Models for SAR Ship Classification: What, Why, Where, and How" Remote Sensing, 13, no. 11: 2091.
++ [7] Zhang, Tianwen; Zhang, Xiaoling. 2021. "Injection of Traditional Hand-Crafted Features into Modern CNN-based Models for SAR Ship Classification: What, Why, Where, and How" Remote Sensing, 13, no. 11: 2091.
 
-++ [8] Zhang, Tianwen; Zhang, Xiaoling; Ke, X.; Liu, C.; Xu, X.; Zhan, X.; Wang, C.; Ahmad, I.; Zhou, Y.; Pan D.; Li, J.; Su, H.; Shi, J.; Wei, S. HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification. IEEE Trans. Geosci. Remote. Sens. 2021, 1–21, doi:10.1109/TGRS.2021.3082759.
++ [8] Zhang, Tianwen; Zhang, Xiaoling; Ke, X.; Liu, C.; Xu, X.; Zhan, X.; Wang, C.; Ahmad, I.; Zhou, Y.; Pan D.; Li, J.; Su, H.; Shi, J.; Wei, S. HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification. IEEE Trans. Geosci. Remote. Sens. 2021, 1–21, doi:10.1109/TGRS.2021.3082759.
 
-++ [9] 张晓玲, 张天文, 师君, 等. 基于深度分离卷积神经网络的高速高精度SAR舰船检测[J]. 雷达学报, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
++ [9] 张晓玲, 张天文, 师君, 等. 基于深度分离卷积神经网络的高速高精度SAR舰船检测[J]. 雷达学报, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
        ZHANG Xiaoling, ZHANG Tianwen, SHI Jun, et al. High-speed and High-accurate SAR ship detection based on a depthwise separable convolution neural network[J]. Journal of Radars, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
+
+++ [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
 
 Warning! Warning! Warning!
 

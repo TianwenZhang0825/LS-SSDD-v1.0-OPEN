@@ -1,8 +1,8 @@
 ######################################################################
        
-       Remote Sensing
+# Remote Sensing
        
-       Special Issue: Synthetic Aperture Radar (SAR) Meets Deep Learning
+# Special Issue: Synthetic Aperture Radar (SAR) Meets Deep Learning
        
        Deadline for manuscript submissions: 28 February 2022.
 

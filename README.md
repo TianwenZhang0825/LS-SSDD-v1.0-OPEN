@@ -1,14 +1,18 @@
-#####################################################################################################################################
-                     Remote Sensing
-                     Special Issue: Synthetic Aperture Radar (SAR) Meets Deep Learning
-                     Deadline for manuscript submissions: 28 February 2022.
-                     
-                     https://www.mdpi.com/journal/remotesensing/special_issues/synthetic_aperture_radar_meets_deep_learning
+######################################################################
+       Remote Sensing
+       
+       Special Issue: Synthetic Aperture Radar (SAR) Meets Deep Learning
+       
+       Deadline for manuscript submissions: 28 February 2022.
 
-                     Invitation submission.
-                     Invitation submission.
-                     Invitation submission.
-#####################################################################################################################################
+       https://www.mdpi.com/journal/remotesensing/special_issues/synthetic_aperture_radar_meets_deep_learning
+
+       Invitation submission.
+       
+       Invitation submission.
+       
+       Invitation submission.
+######################################################################
 
 
 # LS-SSDD-v1.0-OPEN

@@ -1,19 +1,3 @@
-![synthetic_aperture_radar_meets_deep_learning_horizontal_light](https://user-images.githubusercontent.com/46946730/128869827-5640da83-02f5-4958-a76e-08855928787c.png)
-# Remote Sensing
-       
-   # Special Issue: Synthetic Aperture Radar (SAR) Meets Deep Learning
-       
-   # Deadline for manuscript submissions: 28 February 2022.
-
-#       https://www.mdpi.com/journal/remotesensing/special_issues/synthetic_aperture_radar_meets_deep_learning
-
-#       Invitation submission.
-      
-#       Invitation submission.
-       
-#      Invitation submission.
-
-
 # LS-SSDD-v1.0-OPEN
 This is a Large-Scale SAR Ship Detection Dataset-v1.0 (LS-SSDD-v1.0) from Sentinel-1, for small ship detection under large-scale backgrounds. LS-SSDD-v1.0 contains 15 large-scale SAR images whose ground truths are correctly labeled by SAR experts by drawing support from Automatic Identification System (AIS) and Google Earth. To facilitate network training, the large-scale images are directly cut into 9,000 sub-images without bells and whistles, providing convenience for subsequent detection result presentation in large-scale SAR images. 
 

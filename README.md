@@ -38,3 +38,9 @@ Warning! Warning! Warning!
 (2) All baselines are slightly adjusted according to actual experiments so as to ensure training success.
 
 ++ (3) In reference [1], you should remove the pure background image samples and XML files, so as to verify the effectiveness of PBHT-Mechanism.
+
+# Official-SSDD
+
+https://github.com/TianwenZhang0825/Official-SSDD
+
+T. Zhang, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” Remote Sensing, vol. 13, no. 18, 2021.

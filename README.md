@@ -8,7 +8,8 @@ Google Cloud: https://drive.google.com/file/d/1-fSKYsKr5wuYuXJE2CDX_Yfr4Ylwjfqm/
 Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg (Extraction code: 2020)
 
 
-Detailed dataset description can be found in the following reference [1]. When using LS-SSDD-v1.0, please welcome to cite the following references [1-11]. Many thanks.
+Detailed dataset description can be found in the following reference [1]. 
+# When using LS-SSDD-v1.0, please welcome to cite the following references [1-11]. Many thanks.
 
 [1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” Remote Sensing, 2020.
 

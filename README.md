@@ -8,7 +8,7 @@ Google Cloud: https://drive.google.com/file/d/1-fSKYsKr5wuYuXJE2CDX_Yfr4Ylwjfqm/
 Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg (Extraction code: 2020)
 
 
-Detailed dataset description can be found in the following reference [1]. When using LS-SSDD-v1.0, please cite the following references [1-6].
+Detailed dataset description can be found in the following reference [1]. When using LS-SSDD-v1.0, please welcome to cite the following references [1-11]. Many thanks.
 
 [1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” Remote Sensing, 2020.
 
@@ -31,7 +31,9 @@ Detailed dataset description can be found in the following reference [1]. When u
 
 + + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
 
-Warning! Warning! Warning!
++ + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
+
+# Warning! Warning! Warning!
 
 (1) The baselines of LS-SSDD-v1.0 are run under MMDetection 1.0 version. MMDetection 2.0 version is unknown on LS-SSDD-1.0.
 

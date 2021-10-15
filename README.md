@@ -33,7 +33,7 @@ Detailed dataset description can be found in the following reference [1].
 + + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
 
 + + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
-+ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, accepted, in press, 2021.
++ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
 
 # Warning! Warning! Warning!
 

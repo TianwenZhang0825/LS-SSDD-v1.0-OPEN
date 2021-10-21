@@ -11,30 +11,30 @@ Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg (Extraction code: 
 Detailed dataset description can be found in the following reference [1]. 
 # When using LS-SSDD-v1.0, please welcome to cite the following references [1-13]. Many thanks.
 
-[1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” Remote Sensing, 2020.
+[1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” ***Remote Sensing***, 2020.
 
-[2] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2020). HyperLi-Net: A hyper-light deep learning network for high-accurate and high-speed ship detection from synthetic aperture radar imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 167, 123-153
+[2] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2020). HyperLi-Net: A hyper-light deep learning network for high-accurate and high-speed ship detection from synthetic aperture radar imagery. ***ISPRS Journal of Photogrammetry and Remote Sensing***, 167, 123-153, IF=8.979, 1/50.
 
-[3] Zhang, Tianwen, & Zhang, Xiaoling (2020). ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector. IEEE Geoscience and Remote Sensing Letters, 1-5, early access.
+[3] Zhang, Tianwen, & Zhang, Xiaoling (2020). ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector. ***IEEE Geoscience and Remote Sensing Letters***, 1-5, early access.
 
-[4] Tianwen Zhang, Xiaoling Zhang, Jun Shi, Shunjun Wei, Jianguo Wang, Jianwei Li, Hao Su, and Yue Zhou. Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images. IEEE Geoscience and Remote Sensing Letters, 1-5, early access.
+[4] Tianwen Zhang, Xiaoling Zhang, Jun Shi, Shunjun Wei, Jianguo Wang, Jianwei Li, Hao Su, and Yue Zhou. Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images. ***IEEE Geoscience and Remote Sensing Letters***, 1-5, early access.
 
-[5] Zhang, Tianwen, & Zhang, Xiaoling (2019). High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network. Remote Sensing, 11, 1206.
+[5] Zhang, Tianwen, & Zhang, Xiaoling (2019). High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network. ***Remote Sensing***, 11, 1206.
 
-[6] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2019). Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection. Remote Sensing, 11, 2483.
+[6] Zhang, Tianwen, Zhang, Xiaoling, Shi, Jun, & Wei, Shunjun (2019). Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection. ***Remote Sensing***, 11, 2483.
 
-+ [7] Zhang, Tianwen; Zhang, Xiaoling. 2021. "Injection of Traditional Hand-Crafted Features into Modern CNN-based Models for SAR Ship Classification: What, Why, Where, and How" Remote Sensing, 13, no. 11: 2091.
++ [7] Zhang, Tianwen; Zhang, Xiaoling. 2021. "Injection of Traditional Hand-Crafted Features into Modern CNN-based Models for SAR Ship Classification: What, Why, Where, and How" ***Remote Sensing***, 13, no. 11: 2091.
 
-+ [8] Zhang, Tianwen; Zhang, Xiaoling; Ke, X.; Liu, C.; Xu, X.; Zhan, X.; Wang, C.; Ahmad, I.; Zhou, Y.; Pan D.; Li, J.; Su, H.; Shi, J.; Wei, S. HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification. IEEE Trans. Geosci. Remote. Sens. 2021, 1–21, doi:10.1109/TGRS.2021.3082759.
++ [8] Zhang, Tianwen; Zhang, Xiaoling; Ke, X.; Liu, C.; Xu, X.; Zhan, X.; Wang, C.; Ahmad, I.; Zhou, Y.; Pan D.; Li, J.; Su, H.; Shi, J.; Wei, S. HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification. ***IEEE Trans. Geosci. Remote. Sens.*** 2021, 1–21, doi:10.1109/TGRS.2021.3082759.
 
 + [9] 张晓玲, 张天文, 师君, 等. 基于深度分离卷积神经网络的高速高精度SAR舰船检测[J]. 雷达学报, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
        ZHANG Xiaoling, ZHANG Tianwen, SHI Jun, et al. High-speed and High-accurate SAR ship detection based on a depthwise separable convolution neural network[J]. Journal of Radars, 2019, 8(6): 841–851. doi: 10.12000/JR19111.
 
-+ + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
++ + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. ***Remote Sens.*** 2021, 13 (14), 2771.
 
 + + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
-+ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
-+ + **[13] Tianwen Zhang, Xiaoling Zhang, Chang Liu, Jun Shi, Shunjun Wei, Israr Ahmad, Xu Zhan, Yue Zhou, Dece Pan, Jianwei Li, and Hao Su, "Balance Learning for Ship Detection from Synthetic Aperture Radar Remote Sensing Imagery", ***ISPRS Journal of Photogrammetry and Remote Sensing***, in press, 2021.
++ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, ***IEEE Geoscience and Remote Sensing Letters***, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
++ + **[13] Tianwen Zhang, Xiaoling Zhang, Chang Liu, Jun Shi, Shunjun Wei, Israr Ahmad, Xu Zhan, Yue Zhou, Dece Pan, Jianwei Li, and Hao Su, "Balance Learning for Ship Detection from Synthetic Aperture Radar Remote Sensing Imagery", ***ISPRS Journal of Photogrammetry and Remote Sensing***, in press, 2021, IF=8.979, 1/50.
 
 # Warning! Warning! Warning!
 
@@ -44,8 +44,19 @@ Detailed dataset description can be found in the following reference [1].
 
 ++ (3) In reference [1], you should remove the pure background image samples and XML files, so as to verify the effectiveness of PBHT-Mechanism.
 
+# Some papers have used LS-SSDD-v1.0
+[1] X. Zhang, C. Huo, N. Xu, H. Jiang, Y. Cao, L. Ni, and C. Pan, “Multi-task Learning for Ship Detection from Synthetic Aperture Radar Images,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, pp. 1-1, 2021-08-06, 2021.
+
+[2] S. Gao, J. M. Liu, Y. H. Miao, and Z. J. He, “A High-Effective Implementation of Ship Detector for SAR Images,” IEEE Geoscience and Remote Sensing Letters, pp. 1-5, 2021-10-06, 2021.
+
+[3] L. Zhang, Y. Liu, Q. Guo, H. Yin, Y. Li, and P. Du, “Ship Detection in Large-scale SAR Images Based on Dense Spatial Attention and Multi-level Feature Fusion,” in ACM Turing Award Celebration Conference - China ( ACM TURC 2021), Hefei, China, 2021, pp. 77–81.
+
+......
+
+
 # Official-SSDD
 
 https://github.com/TianwenZhang0825/Official-SSDD
 
-T. Zhang, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” Remote Sensing, vol. 13, no. 18, 2021.
+T. Zhang, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” ***Remote Sensing***, vol. 13, no. 18, 2021.
+

@@ -9,7 +9,7 @@ Baidu Cloud:  https://pan.baidu.com/s/1VzqyQHIZL1uPaHmSnRLxPg (Extraction code: 
 
 
 Detailed dataset description can be found in the following reference [1]. 
-# When using LS-SSDD-v1.0, please welcome to cite the following references [1-12]. Many thanks.
+# When using LS-SSDD-v1.0, please welcome to cite the following references [1-13]. Many thanks.
 
 [1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” Remote Sensing, 2020.
 
@@ -34,7 +34,7 @@ Detailed dataset description can be found in the following reference [1].
 
 + + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
 + + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
-+ + **[13] Tianwen Zhang, Xiaoling Zhang, Chang Liu, Jun Shi, Shunjun Wei, Israr Ahmad, Xu Zhan, Yue Zhou, Dece Pan, Jianwei Li, and Hao Su, "Balance Learning for Ship Detection from Synthetic Aperture Radar Remote Sensing Imagery", *ISPRS Journal of Photogrammetry and Remote Sensing*, in press, 2021.
++ + **[13] Tianwen Zhang, Xiaoling Zhang, Chang Liu, Jun Shi, Shunjun Wei, Israr Ahmad, Xu Zhan, Yue Zhou, Dece Pan, Jianwei Li, and Hao Su, "Balance Learning for Ship Detection from Synthetic Aperture Radar Remote Sensing Imagery", ***ISPRS Journal of Photogrammetry and Remote Sensing***, in press, 2021.
 
 # Warning! Warning! Warning!
 

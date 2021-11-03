@@ -51,6 +51,8 @@ Detailed dataset description can be found in the following reference [1].
 
 [3] L. Zhang, Y. Liu, Q. Guo, H. Yin, Y. Li, and P. Du, “Ship Detection in Large-scale SAR Images Based on Dense Spatial Attention and Multi-level Feature Fusion,” in ACM Turing Award Celebration Conference - China ( ACM TURC 2021), Hefei, China, 2021, pp. 77–81.
 
+[4] F. Zhang, Y. Zhou, F. Zhang, Q. Yin, and F. Ma, “Small Vessel Detection Based on Adaptive Dual-Polarimetric Sar Feature Fusion and Attention-Enhanced Feature Pyramid Network,” in 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2218-2221.
+
 ......
 
 

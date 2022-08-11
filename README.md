@@ -36,7 +36,6 @@ Detailed dataset description can be found in the following reference [1].
 + + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, ***IEEE Geoscience and Remote Sensing Letters***, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
 + + **[13] Tianwen Zhang, Xiaoling Zhang, Chang Liu, Jun Shi, Shunjun Wei, Israr Ahmad, Xu Zhan, Yue Zhou, Dece Pan, Jianwei Li, and Hao Su, "Balance Learning for Ship Detection from Synthetic Aperture Radar Remote Sensing Imagery", ***ISPRS Journal of Photogrammetry and Remote Sensing***, in press, 2021, IF=8.979, 1/50.
 
-# Warning! Warning! Warning!
 
 (1) The baselines of LS-SSDD-v1.0 are run under MMDetection 1.0 version. MMDetection 2.0 version is unknown on LS-SSDD-1.0.
 
